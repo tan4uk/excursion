@@ -1,4 +1,10 @@
 /* Universal Styles */
+body {
+    margin: 0;
+    font-family: Verdana, sans-serif;
+    background-color: black;
+    text-align: center;
+}
 
 
 /* Header Section */
