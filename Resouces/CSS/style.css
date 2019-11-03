@@ -22,11 +22,13 @@ a {
     color: aquamarine;
 }
 
-
 /* Header Section */
 
-
-/* Main Section */
-
+h1 {
+    color: white;
+    font-size: 50px;
+    font-weight: normal;
+}
 
 /* Footer Section */
+
